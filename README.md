@@ -1,5 +1,7 @@
 # SSH Manager
 
+:warning: 기존 ssh-manager에서 Ping Socket으로 체크 하던 부분을 Port Connection 확인으로 변경.
+
 :warning: This script is not maintained anymore. It's a really old project and it's way better to use ssh_config with autocomplete or some alias for example.
 
 A simple script to manage ssh connections on *inx ( Such as UNIX, Linux, Mac OS, etc)
